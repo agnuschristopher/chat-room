@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.077d073e.css",
-    "main.js": "/static/js/main.29b47c43.js",
-    "static/js/453.6b19675b.chunk.js": "/static/js/453.6b19675b.chunk.js",
-    "index.html": "/index.html",
-    "main.077d073e.css.map": "/static/css/main.077d073e.css.map",
-    "main.29b47c43.js.map": "/static/js/main.29b47c43.js.map",
-    "453.6b19675b.chunk.js.map": "/static/js/453.6b19675b.chunk.js.map"
+    "main.css": "/chat-room/static/css/main.077d073e.css",
+    "main.js": "/chat-room/static/js/main.a3c3c6b5.js",
+    "static/js/453.6b19675b.chunk.js": "/chat-room/static/js/453.6b19675b.chunk.js",
+    "index.html": "/chat-room/index.html",
+    "main.077d073e.css.map": "/chat-room/static/css/main.077d073e.css.map",
+    "main.a3c3c6b5.js.map": "/chat-room/static/js/main.a3c3c6b5.js.map",
+    "453.6b19675b.chunk.js.map": "/chat-room/static/js/453.6b19675b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.077d073e.css",
-    "static/js/main.29b47c43.js"
+    "static/js/main.a3c3c6b5.js"
   ]
 }
